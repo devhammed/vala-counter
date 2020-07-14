@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.devhammed.vala-counter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.devhammed.vala-counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-14 17:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.github.devhammed.vala-counter.desktop.in:3
+#: data/com.github.devhammed.vala-counter.desktop.in:4
+#: data/com.github.devhammed.vala-counter.appdata.xml.in:6
+msgid "Vala Counter"
+msgstr ""
+
+#: data/com.github.devhammed.vala-counter.desktop.in:5
+msgid "A simple counter app in Vala"
+msgstr ""
+
+#: data/com.github.devhammed.vala-counter.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.devhammed.vala-counter.desktop.in:11
+msgid "Vala;Counter;Simple;"
+msgstr ""
+
+#: data/com.github.devhammed.vala-counter.appdata.xml.in:7
+msgid "Counter App"
+msgstr ""
+
+#: data/com.github.devhammed.vala-counter.appdata.xml.in:9
+msgid "A simple counter app in Vala."
+msgstr ""
