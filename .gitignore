@@ -1,0 +1,6 @@
+*~
+build
+debian/.debhelper/
+debian/com.github.devhammed.vala-counter/
+debian/com.github.devhammed.vala-counter.debhelper.log
+debian/com.github.devhammed.vala-counter.substvars

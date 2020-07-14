@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vala Counter
+GenericName=Vala Counter
+Comment=A simple counter app in Vala
+Categories=Utility;Education;
+Exec=com.github.devhammed.vala-counter
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Vala;Counter;Simple;

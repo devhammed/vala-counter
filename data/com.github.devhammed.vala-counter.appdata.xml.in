@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Hammed Oyedele <itz.harmid@gmail.com> -->
+<component type="desktop">
+  <id>com.github.devhammed.vala_counter</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Vala Counter</name>
+  <summary>Counter App</summary>
+  <description>
+    <p>A simple counter app in Vala.</p>
+  </description>
+</component>
